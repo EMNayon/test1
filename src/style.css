@@ -114,12 +114,12 @@
      transition-delay: 400ms;
      transform-origin: center top;
  }
- .hero-section h1{
+ /* .hero-section h1{
      color: #fff;
      font-size: 5vw;
      line-height: 1;
      font-weight: 900;
- }
+ } */
  .hero-section .dancing{
      font-family: 'Dancing Script', cursive;
      letter-spacing: 1px;
